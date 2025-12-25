@@ -1,6 +1,6 @@
 ## Assessing LLM Outputs with DeepEval
 Developed a script using Python to evaluate and analyze LLM outputs across multiple metrics.  
-- Utilized Python, React, Typescript, & npm
+- Utilized DeepEval, React, Typescript, & npm
 
 ## Setup
 - download all files
