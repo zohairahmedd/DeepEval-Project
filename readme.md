@@ -3,7 +3,7 @@ Developed a script using Python to evaluate and analyze LLM outputs across multi
 - Utilized Python, React, Typescript, & npm
 
 ## Setup
-- Download all files
+- download all files
 - create a ".env" file in the root directory. inside, include "OPENAI_API_KEY=" followed by your API key 
 
 ## Commands
