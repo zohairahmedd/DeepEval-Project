@@ -8,7 +8,7 @@ Developed a script using Python to evaluate and analyze LLM outputs across multi
 
 ## Commands
 - cd into the directory with all files
-- run "pip3 install deepeval"
+- run "py -m pip3 install deepeval"
 - run "npm install"
 - run "npm run dev" and copy the "http://localhost:3000" into any browser
 
